@@ -35,22 +35,8 @@ button{  color:white ;
     box-shadow: 1px 1px 15px lightgrey;}
 .text-muted{ font-family: tahoma; font-size: 15px;}
 h2{ font-family: tahoma; font-weight: 700 ; text-align: center;}
-.end{color:white;}
 
 .half-width{width: 40%;
 float: left;margin-left: 2%;
 }
-.half-width img{ width: 30%; margin-left: 60%; }
-.half-width p{ margin-top: 5%; color: #202020;}
-
-
-.width{width: 40%;
-    float: left;margin-left: 8%; }
-    .width p{ margin-top: 30%;  }
-
-    .last-card{ margin-top: 25%; margin-right: 2%; }
-    .final-card{height: 320px; width:90px; overflow: hidden; background-color:#282531 ; border: none; }
-    li{list-style: none; color: white;}
-
-#last{ width: 1450px ; height: 30px;background-color:#282531 ;; text-align: center; color: white;
-}
+.half-width img{ width: 30%; margin-left: 60%; margin-bottom: 100%;}
